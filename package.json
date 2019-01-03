@@ -1,0 +1,25 @@
+{
+  "name": "lab-pr",
+  "version": "1.0.0",
+  "description": "weatherapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitesky3715/lab-pr.git"
+  },
+  "author": "Sangwon Cho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitesky3715/lab-pr/issues"
+  },
+  "homepage": "https://github.com/whitesky3715/lab-pr#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
